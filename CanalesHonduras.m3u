@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Undefined", HCH TV
+https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined",Campus TV
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined",Sercano TV
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined",Si TV
+https://5b50404ec5e4c.streamlock.net/8030/8030/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined",TEN Canal 10
+http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/chunklist_w517207077_b1848000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined",Teleceiba Canal 7
+http://bit.ly/2NLhkKX?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined",Cholusat Sur 36
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://utv.unah.edu.hn/assets/Uploads/_resampled/SetRatioSize1200500-utvonline-640x360.png",Televisión UNAH
+https://live-utv.unah.edu.hn/web/salida.m3u8
